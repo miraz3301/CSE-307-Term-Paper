@@ -28,5 +28,5 @@ Writes `results/results.csv`, `results/page_faults.png`, `results/hit_ratio.png`
 See `results/` (fill in key findings from your own analysis here).
 
 ## AI assistance disclosure
-Claude (Anthropic) was used for implementation help (code scaffolding for the simulators,
+ChatGPT was used for implementation help (code scaffolding for the simulators,
 workload generator and plotting). Experimental design choices, results and analysis are my own.
